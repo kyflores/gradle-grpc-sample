@@ -7,6 +7,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.example.rpc.LinkedList;
+
 class LinkedListTest {
     @Test void testConstructor() {
         LinkedList list = new LinkedList();
